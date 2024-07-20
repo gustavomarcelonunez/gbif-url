@@ -1,6 +1,6 @@
 type,value
-type,OCCURRENCE
-type,CHECKLIST
-type,METADATA
-type,SAMPLING_EVENT
-type,MATERIAL_ENTITY
+ocurrence,OCCURRENCE
+checklist,CHECKLIST
+metadata,METADATA
+sampling event,SAMPLING_EVENT
+material entity,MATERIAL_ENTITY
